@@ -118,7 +118,7 @@ class CharacterMenu(BaseMenu):
 		region that each icon covers in an array to be used to process user clicks
 		later.
 		'''
-		characters = ["Leah.png", "Csaba.png", "Zac.png"]
+		characters = ["Jake.png", "Tina.png"]
 		num_chars = len(characters)
 		character_dim = self.size[0]//(num_chars+2)  # size of icons displayed
 		icon_positions = [character_dim + character_dim*i for i in range(num_chars)]

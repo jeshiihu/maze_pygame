@@ -1,4 +1,4 @@
-Hailey Musselman (LBL EB1) and Jessica Huynh (LBL EB1)
+Hailey Musselman and Jessica Huynh
 Final Project: Maze Game
 README
 
